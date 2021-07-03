@@ -1,7 +1,7 @@
 #agents{background-color: rgb(255, 127, 191);
         border: solid; color: black; 
         border-radius: 20px;
-        margin: auto;
+        margin: auto;text-align: center;
         }
 #phoenix{background-color: rgba(248, 120, 15, 0.822);
          border: dotted; border-color: seagreen; color: rgb(0, 0, 0);
@@ -10,7 +10,7 @@
          margin-left: 20px;
          margin-right: 20px;
          margin-bottom: 30px;
-         padding: 20px;
+         padding: 20px;text-align: center;
          
 
         }    
@@ -18,7 +18,7 @@
         border: double; border-color: brown; 
         padding: 20px; border-radius: 5px;
 
-        margin: 20px;
+        margin: 20px;text-align: center;
 
 
      } 
@@ -27,4 +27,11 @@
         border-color: royalblue; border-radius: 15px;
         padding: 30px; text-align: center;
 
-}      
+      }    
+#killjoy{  background-color: coral;
+        border: solid darkorange;  
+        margin: 20px; padding: 30px;
+        text-align: center;
+
+
+}       
