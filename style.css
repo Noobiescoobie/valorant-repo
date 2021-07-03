@@ -20,4 +20,10 @@
         margin-left: 20px;
 
 
-     }   
+     } 
+#reyna{ background-color: rgb(138, 54, 138);
+        border: solid; border-width: 20px;
+        border-color: royalblue; border-radius: 15px;
+        padding: 30px; text-align: center;
+
+}      
